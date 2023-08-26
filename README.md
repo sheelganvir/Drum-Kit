@@ -1,6 +1,7 @@
 # Drum Kit - Playable Virtual Drumming Experience🥁
-Welcome to the Drum Kit🥁 repository! This interactive web application brings the joy of playing a drum kit right to your browser. Immerse yourself in the rhythm and beats as you tap away on your keyboard or click with your mouse to produce lifelike sounds of various drum instruments. 
+Welcome to the Drum Kit🥁 repository! This interactive web application, built with HTML, CSS, and JavaScript, brings the joy of playing a drum kit right to your browser. Immerse yourself in the rhythm and beats as you tap away on your keyboard or click with your mouse to produce lifelike sounds of various drum instruments. Whether you're a music enthusiast or just looking for a fun way to pass the time, the Drum Kit web app offers an engaging and immersive experience that allows you to unleash your inner drummer. Get ready to create infectious beats and enjoy the thrill of making music, all from the comfort of your own browser.
 
+## Preview 👀✨
 ![Screenshot_20230806_193208](https://github.com/sheelganvir/Drum-Kit/assets/128175450/bdb480ec-66b6-4167-989f-cfb7345ed3e5)
 
 # Features:
